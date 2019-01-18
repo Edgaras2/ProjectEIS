@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items type="currency">
+            <item>
+                            <pavadinimas><![CDATA[Valiutos pavadinimas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[Valiutos kodas]]></valiutos_kodas>
+                            <santykis><![CDATA[Santykis]]></santykis>
+                            <data><![CDATA[Data]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Australijos doleris]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[AUD]]></valiutos_kodas>
+                            <santykis><![CDATA[1,5874]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Bulgarijos levas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[BGN]]></valiutos_kodas>
+                            <santykis><![CDATA[1,9558]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Brazilijos realas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[BRL]]></valiutos_kodas>
+                            <santykis><![CDATA[4,2271]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Kanados doleris]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[CAD]]></valiutos_kodas>
+                            <santykis><![CDATA[1,5101]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Šveicarijos frankas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[CHF]]></valiutos_kodas>
+                            <santykis><![CDATA[1,1269]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Kinijos  ženminbi juanis]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[CNY]]></valiutos_kodas>
+                            <santykis><![CDATA[7,7018]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Čekijos krona]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[CZK]]></valiutos_kodas>
+                            <santykis><![CDATA[25,564]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Danijos krona]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[DKK]]></valiutos_kodas>
+                            <santykis><![CDATA[7,4642]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Didžiosios Britanijos svaras sterlingų]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[GBP]]></valiutos_kodas>
+                            <santykis><![CDATA[0,8859]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Honkongo doleris]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[HKD]]></valiutos_kodas>
+                            <santykis><![CDATA[8,9338]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Kroatijos kuna]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[HRK]]></valiutos_kodas>
+                            <santykis><![CDATA[7,4268]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Vengrijos forintas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[HUF]]></valiutos_kodas>
+                            <santykis><![CDATA[321,58]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Indonezijos rupija]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[IDR]]></valiutos_kodas>
+                            <santykis><![CDATA[16115,87]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Izraelio  naujasis šekelis]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[ILS]]></valiutos_kodas>
+                            <santykis><![CDATA[4,188]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Indijos rupija]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[INR]]></valiutos_kodas>
+                            <santykis><![CDATA[81,0055]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Islandijos krona]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[ISK]]></valiutos_kodas>
+                            <santykis><![CDATA[138,5]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Japonijos jena]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[JPY]]></valiutos_kodas>
+                            <santykis><![CDATA[123,91]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Pietų Korėjos vonas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[KRW]]></valiutos_kodas>
+                            <santykis><![CDATA[1278,36]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Meksikos pesas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[MXN]]></valiutos_kodas>
+                            <santykis><![CDATA[21,638]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Malaizijos ringitas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[MYR]]></valiutos_kodas>
+                            <santykis><![CDATA[4,6803]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Norvegijos krona]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[NOK]]></valiutos_kodas>
+                            <santykis><![CDATA[9,7358]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Naujosios Zelandijos doleris]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[NZD]]></valiutos_kodas>
+                            <santykis><![CDATA[1,6817]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Filipinų pesas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[PHP]]></valiutos_kodas>
+                            <santykis><![CDATA[59,468]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Lenkijos zlotas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[PLN]]></valiutos_kodas>
+                            <santykis><![CDATA[4,2877]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Rumunijos lėja]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[RON]]></valiutos_kodas>
+                            <santykis><![CDATA[4,685]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Rusijos rublis]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[RUB]]></valiutos_kodas>
+                            <santykis><![CDATA[75,9175]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Švedijos krona]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[SEK]]></valiutos_kodas>
+                            <santykis><![CDATA[10,2488]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Singapūro doleris]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[SGD]]></valiutos_kodas>
+                            <santykis><![CDATA[1,5439]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Tailando batas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[THB]]></valiutos_kodas>
+                            <santykis><![CDATA[36,115]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Turkijos lira]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[TRY]]></valiutos_kodas>
+                            <santykis><![CDATA[6,1166]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[JAV doleris]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[USD]]></valiutos_kodas>
+                            <santykis><![CDATA[1,1389]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+            <item>
+                            <pavadinimas><![CDATA[Pietų Afrikos Respublikos randas]]></pavadinimas>
+                            <valiutos_kodas><![CDATA[ZAR]]></valiutos_kodas>
+                            <santykis><![CDATA[15,6086]]></santykis>
+                            <data><![CDATA[2019-01-16]]></data>
+                    </item>
+    </items>
