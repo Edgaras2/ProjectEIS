@@ -28,10 +28,10 @@ public class Start {
 		String dateTo = console.readLine("Enter date to: ");
 		
 		/**
-		 * To get currency change I need 2 days proportion
+		 * To get currency change I need 2 days proportions
 		 * and to get last day change I take 1 day extra then user asked
 		 * and then I can get both days proportions and can calculate currency change
-		 * then I break while cycle earlier to now show that extra day.
+		 * then I break while cycle early to now show that extra day.
 		 * You will see it in Helper class 
 		 */
 		
