@@ -59,7 +59,7 @@ public class Helper {
 		Map<String, String> zem = new HashMap<>();
 
 		/**
-		 * here I put all currency codes in map as a key
+		 * Here I put all currency codes in map as a key
 		 * and value is currency name
 		 */
 		
@@ -72,7 +72,7 @@ public class Helper {
 		count = 0;
 
 		/**
-		 * this while cycle is for printing information
+		 * This while cycle is for printing information
 		 */
 		
 		while (xmlNodes.getLength() > count) {
@@ -82,7 +82,7 @@ public class Helper {
 			System.out.println(resources.getString("message.proportion") + test2(ele, "Amt", 1));
 			
 			/**
-			 * this while cycle is for taking 1st day and 2nd day proportions
+			 * This while cycle is for taking 1st day and 2nd day proportions
 			 * and calculate currency change
 			 */
 			while (xmlNodes.getLength() > innerCounter) {
@@ -102,7 +102,7 @@ public class Helper {
 			}
 			count++;
 			/**
-			 * this is where I break cycle earlier
+			 * This is where I break cycle early
 			 * and do not show that extra day
 			 */
 			if (xmlNodes.getLength() - 2 < count) {
